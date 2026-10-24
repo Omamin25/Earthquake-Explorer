@@ -4,8 +4,6 @@
 
 Pulse is an interactive, educational earthquake explorer that combines live USGS observations, a 3D Earth visualization, historical earthquake replay, seismic travel-time estimates, and recorded earthquake evidence in one browser-based experience.
 
-🌐 **[Live Demo](https://aibysid.github.io/pulse/)** · 📂 **[Original Source](https://github.com/aibysid/pulse)**
-
 > **Educational project:** Pulse visualizes earthquake observations and scientific reference models. It does not provide earthquake warnings, predictions, or emergency guidance.
 
 ---
@@ -237,10 +235,6 @@ Automated browser test results should be distinguished from validation on physic
 The original project identifies MIT-licensed authored code, public-domain Natural Earth geometry, and third-party scientific software and seismic data subject to their respective license and acknowledgment requirements.
 
 Before redistributing this project, review the original repository's license and retain all required notices and acknowledgments, including those relating to ObsPy TauP and IU/GSN seismic recordings and metadata.
-
-**Original project:** [aibysid/pulse](https://github.com/aibysid/pulse)
-
-**Maintained copy:** [YOUR-USERNAME/pulse](https://github.com/YOUR-USERNAME/pulse)
 
 ---
 
